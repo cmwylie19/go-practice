@@ -16,5 +16,6 @@ func Favs() []string {
 	return []string{
 		"one",
 		"two",
+		"three",
 	}
 }
