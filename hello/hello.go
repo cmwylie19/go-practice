@@ -11,3 +11,10 @@ func Hello() string {
 func Proverb() string {
 	return quoteV3.Concurrency()
 }
+
+func Favs() []string {
+	return []string{
+		"one",
+		"two",
+	}
+}
